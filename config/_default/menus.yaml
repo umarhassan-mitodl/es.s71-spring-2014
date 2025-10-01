@@ -1,0 +1,43 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: b3c9c351-d0f6-6098-c8ea-f9f9f5f60ab1
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 3a0c66df-b5dd-ef1f-e2fe-5560697ba85b
+  name: Calendar and Activities
+  pageRef: /pages/calendar-and-activities
+  weight: 20
+- identifier: 8dbde195-f51c-ed78-ae8b-c3d3d1147b23
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: 78a9bcd2-5291-c212-452a-181a2bd4e021
+  name: Course Development
+  pageRef: /pages/instructor-insights/course-development
+  parent: 8dbde195-f51c-ed78-ae8b-c3d3d1147b23
+  weight: 40
+- identifier: 63b69821-cb10-31c1-ad7b-96efd28d3b99
+  name: Video Journals
+  pageRef: /pages/instructor-insights/video-journals
+  parent: 8dbde195-f51c-ed78-ae8b-c3d3d1147b23
+  weight: 50
+- identifier: a842477d-dc95-b8de-22c7-cd15cad313c4
+  name: Assessment
+  pageRef: /pages/instructor-insights/assessment
+  parent: 8dbde195-f51c-ed78-ae8b-c3d3d1147b23
+  weight: 60
+- identifier: 527c74d4-9dcb-0e12-f509-3fc48a08bef9
+  name: Advice for Educators
+  pageRef: /pages/instructor-insights/advice-for-educators
+  parent: 8dbde195-f51c-ed78-ae8b-c3d3d1147b23
+  weight: 70
+- identifier: 3988c3fc-a172-3afc-3ef8-41ea48585a33
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 80
+- identifier: 308e956a-0dcb-3481-90c0-41d53c8917f0
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 90
